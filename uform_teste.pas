@@ -26,7 +26,6 @@ implementation
 
 procedure TForm8.Teste;
 begin
-  ShowMessage('TESTE');
   ShowMessage('TESTE1');
   ShowMessage('TESTE5');
 end;
